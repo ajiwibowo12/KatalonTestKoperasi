@@ -9,11 +9,11 @@
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <testSuiteGuid>800ad2de-fbd1-4b10-a8ca-32e48415151a</testSuiteGuid>
+   <testSuiteGuid>d46174f9-a7e0-43c1-b2d0-bb9e16bdf4f5</testSuiteGuid>
    <testCaseLink>
-      <guid>18a3ce61-9cc2-429d-b584-b74d000f0d87</guid>
+      <guid>97263fe5-a022-4ba5-be1c-9dd9b4cb219c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestKoperasi</testCaseId>
+      <testCaseId>Test Cases/Koperasi</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
